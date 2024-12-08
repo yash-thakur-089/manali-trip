@@ -5,8 +5,6 @@ import './Gallery.css';  // Ensure this is correct
 
 const Gallery = () => {
   const images = [
-    "https://drive.google.com/file/d/1eLC1fF5FK6V1Jyd8XMZxG2p8kAk7Sx60/view?usp=drive_link",
-    "https://i.ytimg.com/vi/xTwKBMKWVas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjEdRsT-fusM90Yc5DOEBJIlkpsg",
     "https://www.abhibus.com/blog/wp-content/uploads/2023/04/Kullu-Manali-Trip-in-May-.jpg",
     "https://s7ap1.scene7.com/is/image/incredibleindia/solang-nullah-manali-himachal-pradesh-1-attr-hero?qlt=82&ts=1726730690372",
     "https://www.clubmahindra.com/blog/media/section_images/blog-topic-6530ecb63a76c89.jpg",
