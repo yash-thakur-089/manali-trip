@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      <p style={styles.text}>© 2024 Manali Tour | Developed by Yash</p>
+      <p style={styles.text}>© 2024 Manali Tour | Developed by Yash 😎</p>
       <div style={styles.socialLinks}>
         <a href="https://facebook.com" style={styles.link}>Facebook</a>
         <a href="https://www.instagram.com/your_fella_yash/" style={styles.link}>Instagram</a>
