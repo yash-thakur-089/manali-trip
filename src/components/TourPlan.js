@@ -17,7 +17,7 @@ function TourPlan() {
         <h4>All are requested to adhere to the timings </h4>
         <ul>
           <li>- Pickup from Chandigarh.</li>
-          <li>- Departure time around early morning at 03:00 a.m. and arrival time at Manali around 10:00 a.m. on 30th December 2024.</li>
+          <li>- Departure time around early morning at 06:00 a.m. and arrival time at Manali around 10:00 a.m. on 30th December 2024.</li>
           <li>- On the way to Manali, enjoy rafting and visit the paragliding point.</li>
           <li>- Arrive in Manali in the evening and relax.</li>
         </ul>
